@@ -2,6 +2,11 @@
 
 A deep-dive exploratory data analysis (EDA) project on book sales and performance metrics. This project uncovers key insights about publishing trends, language preferences, author performance, and genre-specific sales — all using real-world book data.
 
+## 📥 Dataset
+
+The dataset used in this project is available in this repository:  
+👉 [Books_Data_Clean.csv](./Books_Data_Clean.csv)
+
 ## 🧠 Objectives
 
 - Analyze book sales trends over time
